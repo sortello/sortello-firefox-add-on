@@ -1,0 +1,67 @@
+Manifest-Version: 1.0
+
+Name: icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 93c0navuHzSN2lwqeOUZ2w==
+SHA1-Digest: WfYCAfPr3JlXQyGzU+Q2XQMhxDw=
+
+Name: background.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: o0/JVZq7Hwk1/R2RWd/Z0w==
+SHA1-Digest: m8Ek5WVdKPHoRaDkuRE0tXBTqCE=
+
+Name: getLists.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JuV7z9VFnmR+lXI4PelcpQ==
+SHA1-Digest: GFUdT0QxAZ3mgTZlMjsO8KGI9X0=
+
+Name: icon128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Up4wLF/e8NjL6hOdjPDCJg==
+SHA1-Digest: rdK607PsNdSQv7DV+xGJjTV0RM0=
+
+Name: icon16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nwDlfTr8lMwl6t/ItG5g1Q==
+SHA1-Digest: yVY989ei/G/CZl8X62DnNulxBSg=
+
+Name: icon48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: S/lkiNBBC9aSeCXOFRDrJA==
+SHA1-Digest: 0ZxKQnLRcSHE4yKpMPY+SG5eQt8=
+
+Name: logo_large.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FG6mWL6dl8nJSNu66Jh46A==
+SHA1-Digest: KHBf+TsHR/9MndjZ83AxiKl2FFU=
+
+Name: logo_large.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: f4WJ/rwLBFPmEbudLkNtBQ==
+SHA1-Digest: 28PHhuHZolMPEZXyTT0fMcLy7k4=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +h9ZJ30LhXVb9XGAyThfWA==
+SHA1-Digest: JTP6sJZov2//Tu9EhvT9ZSxS1cA=
+
+Name: README.md
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VLr2uBYQQRW2f0i5cjD9Dw==
+SHA1-Digest: y2bJYN+xDpaT07cvgiNUBx3Hxqo=
+
+Name: sortello_icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Up4wLF/e8NjL6hOdjPDCJg==
+SHA1-Digest: rdK607PsNdSQv7DV+xGJjTV0RM0=
+
+Name: _metadata/verified_contents.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4MowTDslDcWmM0TtxEWHQQ==
+SHA1-Digest: 1C97UixiSIdePS2vgooI6PKGFaE=
+
+Name: LICENSE
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: J782Df+XtLZBUFu7RzSI4Q==
+SHA1-Digest: UURiA3T4Gqa10te6rsiFH7cdKd8=
+
